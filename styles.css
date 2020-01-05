@@ -63,3 +63,45 @@ body {
 .controls .controls__range {
     margin-bottom: 30px;
 }
+
+h1 span:nth-child(1) {
+    color : #9028ff;
+}
+h1 span:nth-child(2) {
+    color : #9028ff;
+}
+h1 span:nth-child(3) {
+    color : #9028ff;
+}
+h1 span:nth-child(4) {
+    color : #9028ff;
+}
+h1 span:nth-child(5) {
+    color : #e74c3c;
+}
+h1 span:nth-child(6) {
+    color : #f39c12;
+}
+h1 span:nth-child(7) {
+    color : #f1c40f;
+}
+h1 span:nth-child(8) {
+    color : #2ecc71;
+}
+h1 span:nth-child(9) {
+    color : #3498db;
+}
+h1 span:nth-child(10) {
+    color : #40739e;
+}
+h1 span:nth-child(11) {
+    color : #9b59b6;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: -30px;
+    font-weight: 800;
+    font-size: 30px;
+}
